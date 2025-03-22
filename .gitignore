@@ -12,3 +12,5 @@
 # Model files
 *.pkl
 *.joblib
+
+.idea
